@@ -2,7 +2,7 @@
 
 Visual of Simulation
 <br>
-<img width="602" height="606" alt="Image" src="https://github.com/user-attachments/assets/0209aa90-009c-49b0-afee-5c7ec9e333e6" />
+<img width="567" height="577" alt="Image" src="https://github.com/user-attachments/assets/0209aa90-009c-49b0-afee-5c7ec9e333e6" />
 
 Features in Simulation
 - Real time animation using a timer.

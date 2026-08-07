@@ -1,5 +1,14 @@
 # Bohr-Hydrogen-Atom-Simulation-Project
 
+## Table of Contents
+- Visual of Simulation
+- Features in Simulation
+- Math Concepts in Simulation
+- How it Works
+- Requirements
+- How to Run
+- Video Details for Simulation
+
 ## Visual of Simulation
 <img width="567" height="577" alt="Image" src="https://github.com/user-attachments/assets/0209aa90-009c-49b0-afee-5c7ec9e333e6" />
 

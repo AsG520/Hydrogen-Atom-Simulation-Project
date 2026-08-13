@@ -9,6 +9,9 @@
 - How to Run
 - Video Details for Simulation
 
+## 🎬 Short Clip of Simulation
+https://github.com/user-attachments/assets/25e84a63-4070-45f8-9c80-77277c14deff
+
 ## 🎨 Visual of Simulation
 <img width="567" height="577" alt="Image" src="https://github.com/user-attachments/assets/0209aa90-009c-49b0-afee-5c7ec9e333e6" />
 
